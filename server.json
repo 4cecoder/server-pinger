@@ -1,0 +1,8 @@
+{
+    "pingInterval": 60,
+    "teamsWebhookURL": "YOUR_TEAMS_WEBHOOK_URL",
+    "servers": [
+        {"address": "8.8.8.8"},
+        {"address": "8.8.4.4"}
+    ]
+}
