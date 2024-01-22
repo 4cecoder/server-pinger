@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# Remove bin if go build
+server-pinger
